@@ -1,0 +1,8 @@
+build/
+*.pcm
+.vscode/
+.idea/
+*.o
+*.a
+*.so
+*.out
